@@ -1,10 +1,12 @@
 # Abp.Samples.MicroService
 AspNetBoilerplate Sample for Microservice Development 
 
+## Description
+Sample Application based on AspNetBoilerPlate for Microservice (SOA) development.
+
+## Status
+Work in progress to adapt Abp to SOA/Microservice development
+
 ## Definitions for this sample
-* Application
-* MicroService
-
-## Items to be addressed
-
-* When MicroService uses IRepository<Entity> instead of IMicroServiceRepository Application does not register service 
+* Application (TODO)
+* MicroService (TODO)
